@@ -1,0 +1,13 @@
+server:
+  port: 9000
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Cards Microservices"
+  contactDetails:
+    name: "Kalyan Reddy - Developer"
+    email: "kalyan@gmail.com"
+  onCallSupport:
+    - (123) 456-7891
+    - (123) 456-7899

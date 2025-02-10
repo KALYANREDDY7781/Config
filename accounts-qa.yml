@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Bank Microservices - QA Env"
+  contactDetails:
+    name: "Ms Dhoni - Developer"
+    email: "msd@gmail.com"
+  onCallSupport:
+    - (123) 456-7777
+    - (123) 456-7779

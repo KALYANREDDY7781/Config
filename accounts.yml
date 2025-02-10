@@ -1,0 +1,15 @@
+server:
+  port=8080
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Bank Microservices"
+  contactDetails:
+    name: "Kalyan Reddy - Developer"
+    email: "kalyan@gmail.com"
+  onCallSupport:
+    - (123) 456-7891
+    - (123) 456-7899
+

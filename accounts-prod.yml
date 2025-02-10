@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Bank Microservices - Prod Env"
+  contactDetails:
+    name: "Sachin - Developer"
+    email: "sachin@gmail.com"
+  onCallSupport:
+    - (123) 456-1010
+    - (123) 456-1011
