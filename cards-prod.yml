@@ -1,5 +1,5 @@
 cards:
-  message: "Welcome to Cards Microservices production"
+  message: "Welcome to Cards Microservices prod"
   contactDetails:
     name: "Sachin - Developer"
     email: "sachin@gmail.com"
