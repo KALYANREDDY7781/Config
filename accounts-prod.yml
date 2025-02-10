@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Bank Microservices - Prod Env"
+  message: "Welcome to Bank Microservices - Production Env"
   contactDetails:
     name: "Sachin - Developer"
     email: "sachin@gmail.com"
